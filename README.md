@@ -40,7 +40,7 @@
 
 ### Specific topics
 
-- **How to turn on symbols for tabs and spaces in VSCode:** see this howto: [Make tabs and spaces appear in VSCode](https://onespace.netlify.app/howtos?id=451) 
+- **How to turn on symbols for tabs and spaces in VSCode:** see this howto: [Make tabs and spaces appear in VSCode](https://onespace.netlify.app/howtos?id=457) 
 - **:construction: How to change VSCode font to cursive**: *"das war die Fira Nerd Font bzw FiraMono Nerd Font und dann noch die Schrift flottflott und editor.fontLigatures"*
 - **:construction: Advanced VSCode debugging:** more debugging features, solutions to problems 
 - **JavaScript/DOM Live-Coding:** [Create a number dropdown which shows that number of icons](https://onespace.netlify.app/howtos?id=453)
