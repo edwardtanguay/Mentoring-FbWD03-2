@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+		  content="width=device-width, initial-scale=1.0">
+	<script src="https://unpkg.com/vue@next"></script>
+	<title>Vue 3.0</title>
+	<style>
+		div.output {
+			display: flex;
+		}
+		div.box {
+			background-color: yellow;
+			margin: 0 10px 10px 0;
+			padding: 10px;
+			border: 1px solid navy;
+			border-radius: 5px;
+		}
+	</style>
+</head>
+<body>
+	<div id="app">
+		<div class="output"
+			 v-html="output">
+		</div>
+	</div>
+	<script>
+		const app = Vue.createApp({
+			data() {
+				return {
+					output: ''
+				};
+			},
+			methods: {
+				initialize() {
+					this.output = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map(num => `<div class="box">${num}</div>`).join('');
+				}
+			}
+		});
+		const vm = app.mount('#app');
+		vm.initialize();
+	</script>
+</body>
+</html>
