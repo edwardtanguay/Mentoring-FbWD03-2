@@ -2,6 +2,17 @@
 
 ## 2021-12-17
 
+- 2021-12-16 from Niels:
+	- "Nesting arrays and objects:
+		- Nesting and accessing arrays within each other
+		- Nesting and accessing objects in objects
+		- Nesting and accessing arrays in objects
+		- Nesting and iterating over objects in arrays
+	- "Advanced Array methods:
+		- Iterating over arrays: `Array.prototype.forEach(<function>)`
+		- Converting an array to a different array: `Array.prototype.map(<function>)`
+		- Converting an array to a single value: `Array.prototype.reduce(<function>)`
+
 ### Review topics
 
 - `if/else/switch` 
