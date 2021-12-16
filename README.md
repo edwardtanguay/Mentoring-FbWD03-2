@@ -2,6 +2,8 @@
 
 ## 2021-12-17
 
+### Review topics
+
 - 2021-12-16 from Niels:
 	- "Nesting arrays and objects:
 		- Nesting and accessing arrays within each other
@@ -12,9 +14,6 @@
 		- Iterating over arrays: `Array.prototype.forEach(<function>)`
 		- Converting an array to a different array: `Array.prototype.map(<function>)`
 		- Converting an array to a single value: `Array.prototype.reduce(<function>)`
-
-### Review topics
-
 - `if/else/switch` 
 	- use `switch` to return a function that returns what to wear depending on the weather
 	- :muscle: CHALLENGE: use `switch` to create a function that takes "add", "subtract", "divide", or "multiply" and returns a function to perform this task 
