@@ -1,5 +1,12 @@
 # Mentoring FbW D03-2
 
+## 2021-01-07
+
+### Specific Topics
+
+- **:muscle: How is JavaScript programmed?**
+
+
 ## 2021-12-17
 
 ### Housekeeping: The Structure of Mentoring
@@ -11,8 +18,8 @@
 		- :star: The more you continually communicate to me what content is complex to you, what current topics are difficult for you to understand and why, what open questions you have, what your projects are, and what new technologies you want to learn, the more mentoring will make you a better developer. 
 	-  *"Mentoring aims to **respond to the different levels** within a class and to **support especially slow learners**."*
 		- :star: We can structure our mentoring time anyway you feel is best. My recommendation is the following:
-			1. first half (9:00-10:30) - **Review Topics**: repetition of the easiest material, make sure everybody understands everything covered this week and up to this point in the course, ask anything you want and it will be explained, no question is too simple, "leave nobody behind"
-			2. second half (10:45-12:00) - **Specific Topics**: any question regarding any technology matter how advanced, live-coding requests on any topic, help with any specific project, request to learn new technology, etc. 
+			1. first half (13:00-14:30) - **Review Topics**: repetition of the easiest material, make sure everybody understands everything covered this week and up to this point in the course, ask anything you want and it will be explained, no question is too simple, "leave nobody behind"
+			2. second half (14:45-16:15) - **Specific Topics**: any question regarding any technology no  matter how advanced, live-coding requests on any topic, help with any specific project, request to learn new technology, etc. 
 			3. keep **breakout rooms open** at all times: if the current topic is too easy, too difficult, or not interesting to you, feel free to work on your own or in groups in the breakout rooms, I will send a notice out via Zoom when we have a major change in topic
 			4. **continually suggest new topics** that you want to do in mentoring, either mention them in class or write them in Slack and I will record and schedule them here in this document: the more **detailed** the request the better :muscle:, the more **prenotice** you give me the better :muscle:
 
