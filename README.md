@@ -2,51 +2,18 @@
 
 ## 2021-01-07
 
-### Specific Topics
+### Review Topics
 
-- **:muscle: How is JavaScript programmed?**
-
-
-## 2021-12-17
-
-### Housekeeping: The Structure of Mentoring
-
-- From the DCI Mentoring Concept: 
-	- *"The structure of the Mentoring varies and **depends on the activity of the students** as much as the Mentor. The **questions of the students have priority**. The content of the mentoring lessons are **adapted to the students needs**.*
-		- :star: The more you continually communicate to me what you want and need to learn, the more you determine the content of the mentoring. 
-	- *"Recap **complex content**, build on **current topics**, answer **open questions**, support **student projects**, explain **new technologies**."*
-		- :star: The more you continually communicate to me what content is complex to you, what current topics are difficult for you to understand and why, what open questions you have, what your projects are, and what new technologies you want to learn, the more mentoring will make you a better developer. 
-	-  *"Mentoring aims to **respond to the different levels** within a class and to **support especially slow learners**."*
-		- :star: We can structure our mentoring time anyway you feel is best. My recommendation is the following:
-			1. first half (13:00-14:30) - **Review Topics**: repetition of the easiest material, make sure everybody understands everything covered this week and up to this point in the course, ask anything you want and it will be explained, no question is too simple, "leave nobody behind"
-			2. second half (14:45-16:15) - **Specific Topics**: any question regarding any technology no  matter how advanced, live-coding requests on any topic, help with any specific project, request to learn new technology, etc. 
-			3. keep **breakout rooms open** at all times: if the current topic is too easy, too difficult, or not interesting to you, feel free to work on your own or in groups in the breakout rooms, I will send a notice out via Zoom when we have a major change in topic
-			4. **continually suggest new topics** that you want to do in mentoring, either mention them in class or write them in Slack and I will record and schedule them here in this document: the more **detailed** the request the better :muscle:, the more **prenotice** you give me the better :muscle:
-
-### Review topics
-
-- `if/else/switch` 
-	- given an array of colors, display "warning!" if color is red, display "go!" if color is green, and for all other colors display "---"
-		- do this task again with `switch` instead of `if/else`
-	- make a function which receives a country and returns the capital, use `switch`
-	- use `switch` to return what to wear depending on the weather
-	- :muscle: CHALLENGE: use `switch` to create a function that takes "add", "subtract", "divide", or "multiply" and returns a function to perform this task 
-- best-choices when to use which loops
-	- a range of numbers: `for`
-	- an array: `for-of` or `forEach()`
-	- an array that is chained onto another ES6 array function: `forEach()`
-	- properties in an object: `for-in`
-- `.forEach() / for-of / for / for-in` 
-	- display numbers 1 to 10
-	- display numbers 10 to 1
-	- display numbers 0 to 100 in increments of 5
-	- display numbers 100 to 0 in decrements of 10
-	- display numbers 1 to 1000 but stop at 23 
-	- :muscle: CHALLENGE: display numbers 1 to 10 on HTML page in a UL/LI list
-	- :muscle: CHALLENGE: display numbers 1 to 10 on HTML page in a dropdown list
-	- display an array of five colors
-	- display an array of five colors except for yellow
-	- :muscle: CHALLENGE: display colors on HTML page in their own color
+- diese Woche:
+	- Übung-PB-42-forEach-map
+	- Übung-PB-43-map()
+	- Einführung Array Method reduce()
+	- Übung-PB-44-advArrays"
+	- Warmup mit Übung-PB-48-mixed
+	- Übung-PB-45-map
+	- Übung-PB-46-reduce anfangen
+	- PB-44-advArrays1
+	- PB-50-advArrays2"
 	- :muscle: CHALLENGE: display all company names of [Northwind](https://github.com/graphql-compose/graphql-compose-examples/tree/master/examples/northwind/data/json) customers
 	- display all Northwind company names with company id in parentheses
 - array functions: 
@@ -90,6 +57,56 @@
 		- Converting an array to a different array: `Array.prototype.map(<function>)`
 		- Converting an array to a single value: `Array.prototype.reduce(<function>)`
 
+### Specific Topics
+
+- **:muscle: How is JavaScript programmed?**
+	- What do we want to look at and understand here and why? There is no one JavaScript code base but rather many implementations of ECMAScript, e.g. the V8 engine being one of the most popular, here the source code: https://github.com/v8/v8
+- **:muscle: Vim editor basics:** learn how to use the vim editor in VSCode: [Vim editor basics](https://edwardtanguay.netlify.app/howtos?id=458)
+- **:muscle: My recent howtos:**: https://edwardtanguay.netlify.app/howtos
+
+
+
+
+## 2021-12-17
+
+### Housekeeping: The Structure of Mentoring
+
+- From the DCI Mentoring Concept: 
+	- *"The structure of the Mentoring varies and **depends on the activity of the students** as much as the Mentor. The **questions of the students have priority**. The content of the mentoring lessons are **adapted to the students needs**.*
+		- :star: The more you continually communicate to me what you want and need to learn, the more you determine the content of the mentoring. 
+	- *"Recap **complex content**, build on **current topics**, answer **open questions**, support **student projects**, explain **new technologies**."*
+		- :star: The more you continually communicate to me what content is complex to you, what current topics are difficult for you to understand and why, what open questions you have, what your projects are, and what new technologies you want to learn, the more mentoring will make you a better developer. 
+	-  *"Mentoring aims to **respond to the different levels** within a class and to **support especially slow learners**."*
+		- :star: We can structure our mentoring time anyway you feel is best. My recommendation is the following:
+			1. first half (13:00-14:30) - **Review Topics**: repetition of the easiest material, make sure everybody understands everything covered this week and up to this point in the course, ask anything you want and it will be explained, no question is too simple, "leave nobody behind"
+			2. second half (14:45-16:15) - **Specific Topics**: any question regarding any technology no  matter how advanced, live-coding requests on any topic, help with any specific project, request to learn new technology, etc. 
+			3. keep **breakout rooms open** at all times: if the current topic is too easy, too difficult, or not interesting to you, feel free to work on your own or in groups in the breakout rooms, I will send a notice out via Zoom when we have a major change in topic
+			4. **continually suggest new topics** that you want to do in mentoring, either mention them in class or write them in Slack and I will record and schedule them here in this document: the more **detailed** the request the better :muscle:, the more **prenotice** you give me the better :muscle:
+
+### Review topics
+
+- `if/else/switch` 
+	- given an array of colors, display "warning!" if color is red, display "go!" if color is green, and for all other colors display "---"
+		- do this task again with `switch` instead of `if/else`
+	- make a function which receives a country and returns the capital, use `switch`
+	- use `switch` to return what to wear depending on the weather
+	- :muscle: CHALLENGE: use `switch` to create a function that takes "add", "subtract", "divide", or "multiply" and returns a function to perform this task 
+- best-choices when to use which loops
+	- a range of numbers: `for`
+	- an array: `for-of` or `forEach()`
+	- an array that is chained onto another ES6 array function: `forEach()`
+	- properties in an object: `for-in`
+- `.forEach() / for-of / for / for-in` 
+	- display numbers 1 to 10
+	- display numbers 10 to 1
+	- display numbers 0 to 100 in increments of 5
+	- display numbers 100 to 0 in decrements of 10
+	- display numbers 1 to 1000 but stop at 23 
+	- :muscle: CHALLENGE: display numbers 1 to 10 on HTML page in a UL/LI list
+	- :muscle: CHALLENGE: display numbers 1 to 10 on HTML page in a dropdown list
+	- display an array of five colors
+	- display an array of five colors except for yellow
+	- :muscle: CHALLENGE: display colors on HTML page in their own color
 ### Specific topics
 
 - **:star: How to turn on symbols for tabs and spaces in VSCode**
