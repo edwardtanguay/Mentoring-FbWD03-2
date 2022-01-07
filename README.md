@@ -4,6 +4,7 @@
 
 ### Review Topics
 
+- https://github.com/edwardtanguay/test-employees-map-reduce-etc
 - diese Woche:
 	- Übung-PB-42-forEach-map
 	- Übung-PB-43-map()
@@ -58,6 +59,8 @@
 		- Converting an array to a single value: `Array.prototype.reduce(<function>)`
 
 ### Specific Topics
+
+- perhaps: Create a cashier calculator to return change: https://edwardtanguay.netlify.app/howtos?id=481
 
 - **:muscle: How is JavaScript programmed?**
 	- What do we want to look at and understand here and why? There is no one JavaScript code base but rather many implementations of ECMAScript, e.g. the V8 engine being one of the most popular, here the source code: https://github.com/v8/v8
