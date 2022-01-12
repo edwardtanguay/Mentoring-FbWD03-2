@@ -4,6 +4,8 @@
 
 ### Review Topics
 
+[code shseet](files/ex_javascript_functions.js)
+
 1.  **isPlainObject** - Write a method that verifies an argument is a plain object, not an array or null
  * **Task description:** Write a method that verifies an argument is a plain object, not an array or null  
  * **Expected Result:** True if object is plain, false otherwise.   
